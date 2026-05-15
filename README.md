@@ -44,11 +44,3 @@ An end-to-end automated invoice processing system built with **n8n workflows**, 
 * AP/AR invoice processing
 * Business process automation
 * AI document extraction pipelines
-
----
-
-If you want, I can also:
-
-* write your **README.md (full GitHub repo file)**
-* add **architecture diagram**
-* or turn this into a **viral LinkedIn post + repo launch thread**
